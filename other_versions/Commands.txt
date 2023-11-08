@@ -1,0 +1,12 @@
+cd D:\OneDrive_USC\OneDrive - University of South Carolina\Research\Safegraph_bias\code
+D:
+conda activate geo
+jupyter lab
+
+cd F:
+cd "F:\USC_OneDrive\OneDrive - University of South Carolina\Research\Safegraph_bias\code"
+F:
+conda activate Google_street_view
+jupyter lab
+
+conda activate street_mapping_env
